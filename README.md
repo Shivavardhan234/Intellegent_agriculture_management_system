@@ -1,0 +1,1 @@
+# Intellegent_agriculture_management_system
