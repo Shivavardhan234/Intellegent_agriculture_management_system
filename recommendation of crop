@@ -1,0 +1,16 @@
+import pandas as pd
+import numpy as np
+
+df=pd.read_csv("Dataset-1.csv")
+
+l=df['label'].unique()
+l
+ads={}
+x=0
+for p in l:
+    ads[p]=x
+    x=x+1
+
+df['label'] = df['label'].map(ads)
+print(ads)
+df
