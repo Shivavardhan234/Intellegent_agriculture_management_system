@@ -11,4 +11,5 @@ The IAMS project has the potential to revolutionize the way that agriculture is 
 
 
 Link for crop recommendation web application:https://intellegentagriculturemanagementsystem-gyfrgc93g9sfhhzqdj8k4n.streamlit.app/
+
 Link for crop disease prediction web application:https:https://intellegentagriculturemanagementsystem-fvnlavve7bhvkkrtqgkgnp.streamlit.app/
